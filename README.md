@@ -1,18 +1,31 @@
-# Getting Started with Create React App
+# Getting Started with Pizza Challenge React JS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project is just a test, it is not a commercial application.
+
+All data is plain text, no encryption is used.
+
+Tests script are very limited.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn install`
+
+Installs all the dependencies.
 
 ### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Test card numbers:\
+JCB: 3528000700000000\
+Mastercard: 5454545454545454\
+Visa: 4444333322221111\
+Discover card: 6011000400000000
 
 ### `yarn test`
 
